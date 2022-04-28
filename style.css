@@ -1,0 +1,29 @@
+html {
+    background: url("https://attackingsoccer.com/wp-content/uploads/2021/02/How-Big-is-a-Soccer-Field-768x435.jpg?ezimgfmt=ng:webp/ngcb1") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold
+}
+
+input {
+    font-weight: bold;
+    text-align: center;
+}
+
+form {
+    width: 100%;
+}
+
+.card {
+    height: 700px;
+}
+/* Add some padding inside the card container */
