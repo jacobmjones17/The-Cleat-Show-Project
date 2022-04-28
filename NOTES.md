@@ -1,7 +1,7 @@
 # Cleat-Show
 
 Overview
-Cleat-Show will be used in order to search through soccer cleats. We will be able to use the search form to look them up by name. We will also be able to click on their picture and it pull it up separately to where you can leave a review and a rating
+Cleat-Show will be used in order to search through soccer cleats. We will be able to use the search form to look them up by name. We will also have the option to filter through them by category in the "category" tab. From there they can click the "Eurosport Website" tab which will direct them to soccer.com to purchase their cleats.
 
 features
 Easy Click Tracking
